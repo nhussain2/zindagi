@@ -4,35 +4,20 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
 
 import com.luseen.spacenavigation.SpaceItem;
 import com.luseen.spacenavigation.SpaceNavigationView;
 import com.luseen.spacenavigation.SpaceOnClickListener;
 
-public class MainActivity extends AppCompatActivity {
+public class personal extends AppCompatActivity {
 
     SpaceNavigationView navigationView;
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        final Button personalbutton = (Button) findViewById(R.id.PersonalButton);
-        personalbutton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent personalintent = new Intent(MainActivity.this, personal.class);
-                MainActivity.this.startActivity(personalintent);
-            }
-        });
-
-        //add navigation view
+        setContentView(R.layout.activity_personal);
 
         navigationView = findViewById(R.id.space);
 
@@ -43,20 +28,19 @@ public class MainActivity extends AppCompatActivity {
         navigationView.addSpaceItem(new SpaceItem("", R.drawable.ic_textsms_black_24dp));
         navigationView.addSpaceItem(new SpaceItem("", R.drawable.ic_favorite_black_24dp));
 
-
         //set on click listeners for navigation view
         navigationView.setSpaceOnClickListener(new SpaceOnClickListener() {
             @Override
             public void onCentreButtonClick() {
                 navigationView.setCentreButtonSelectable(true);
-                Intent homeintent= new Intent(MainActivity.this, MainActivity.class);
-                MainActivity.this.startActivity(homeintent);
+                Intent homeintent= new Intent(personal.this, MainActivity.class);
+                personal.this.startActivity(homeintent);
 
             }
 
             @Override
             public void onItemClick(int itemIndex, String itemName) {
-                Toast.makeText(MainActivity.this, itemIndex + " " + itemName, Toast.LENGTH_SHORT).show();
+                Toast.makeText(personal.this, itemIndex + " " + itemName, Toast.LENGTH_SHORT).show();
 
 
 /*
@@ -86,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onItemReselected(int itemIndex, String itemName) {
-                Toast.makeText(MainActivity.this, itemIndex + " " + itemName, Toast.LENGTH_SHORT).show();
+                Toast.makeText(personal.this, itemIndex + " " + itemName, Toast.LENGTH_SHORT).show();
 /*
                 onItemReselected(0,"");
                 //Intent callintent=new Intent(MainActivity.this, call.class);
