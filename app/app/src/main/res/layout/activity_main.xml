@@ -30,10 +30,10 @@
         android:layout_gravity="bottom"
         android:layout_marginBottom="3dp"
         app:active_item_color="@color/colorAccent"
-        app:centre_button_color="@color/colorPrimary"
+        app:centre_button_color="@color/colorAccent"
         app:centre_button_icon="@drawable/ic_home_black_24dp"
         app:inactive_item_color="@color/white"
-        app:space_background_color="@color/colorPrimaryDark"
+        app:space_background_color="@color/black"
         app:space_item_icon_only_size="@dimen/space_item_icon_only_size"
         app:space_item_icon_size="@dimen/space_item_icon_default_size"
         app:space_item_text_size="@dimen/space_item_text_default_size" />

@@ -23,10 +23,10 @@ public class MainActivity extends AppCompatActivity {
         navigationView = findViewById(R.id.space);
 
         navigationView.initWithSaveInstanceState(savedInstanceState);
-        navigationView.addSpaceItem(new SpaceItem("", R.drawable.ic_home_black_24dp));
-        navigationView.addSpaceItem(new SpaceItem("", R.drawable.ic_add_box_black_24dp));
-        navigationView.addSpaceItem(new SpaceItem("", R.drawable.ic_history_black_24dp));
-        navigationView.addSpaceItem(new SpaceItem("", R.drawable.ic_favorite_black_24dp));
+        navigationView.addSpaceItem(new SpaceItem("call", R.drawable.ic_call_black_24dp));
+        navigationView.addSpaceItem(new SpaceItem("info", R.drawable.ic_info_black_24dp));
+        navigationView.addSpaceItem(new SpaceItem("advice", R.drawable.ic_textsms_black_24dp));
+        navigationView.addSpaceItem(new SpaceItem("personal", R.drawable.ic_favorite_black_24dp));
 
         //set on click listeners for navigation view
         navigationView.setSpaceOnClickListener(new SpaceOnClickListener() {
