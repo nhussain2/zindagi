@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_action_home"
+        />
+    <item
+        android:id="@+id/call"
+        android:title="Call"
+        android:icon="@drawable/ic_action_call"
+        />
+
+    <item
+        android:id="@+id/personal"
+        android:title="Personal"
+        android:icon="@drawable/ic_action_personal"
+        />
+
+    <item
+        android:id="@+id/advice"
+        android:title="Advice"
+        android:icon="@drawable/ic_action_advice"
+        />
+
+
+</menu>
