@@ -8,13 +8,16 @@
 
 
     <TextView
+        android:id="@+id/advice_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Advice Fragment"
-        android:gravity="center"
         android:layout_centerInParent="true"
-        android:textSize="18sp"
+        android:gravity="center"
+        android:text="@string/advice"
+        android:background="@color/bg"
 
-        />
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:textSize="30sp" />
 
 </FrameLayout>
