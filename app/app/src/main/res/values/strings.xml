@@ -10,4 +10,7 @@
     <string name="advice">معلومات</string>
     <string name="personal">ذاتی</string>
 
+    // app values
+    <string name="hometitle">زندگی</string>
+
 </resources>
