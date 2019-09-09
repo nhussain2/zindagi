@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">app</string>
-    <string name="home">HOME</string>
-    <string name="call">CALL</string>
-    <string name="advice">INFO</string>
-    <string name="personal">PERSONAL</string>
-</resources>
