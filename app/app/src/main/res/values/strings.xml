@@ -5,9 +5,9 @@
 
     // bottom nav values
 
-    <string name="home">HOME</string>
-    <string name="call">CALL</string>
-    <string name="advice">INFO</string>
-    <string name="personal">PERSONAL</string>
+    <string name="home">مرکز</string>
+    <string name="call">رابطہ</string>
+    <string name="advice">معلومات</string>
+    <string name="personal">ذاتی</string>
 
 </resources>
