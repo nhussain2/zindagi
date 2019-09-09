@@ -11,12 +11,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
+        android:background="@color/bg"
         android:gravity="center"
         android:text="@string/home"
-        android:background="@color/bg"
 
         android:textColor="@color/colorPrimaryDark"
-        android:textStyle="bold"
-        android:textSize="30sp" />
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
 </FrameLayout>
