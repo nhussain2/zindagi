@@ -12,10 +12,6 @@ Some stats by [Dawn News](https://www.dawn.com/news/1448391)
 ### App Updates:
 Every week of the project, summary of updates/commits will be posted with screenshots for further detail.
 
-<details>
-  <summary> Updates </summary>
-  <details>
-    <summary>  9/9/2019 </summary>
-     App skeleton structure created. Has fragmented pages for HOME, CONTACT, INFO, PERSONAL. Bottom navigation added.
-  </details>
-</details>
+> 9/9/2019
+> Added bottom navigation, basic app skeleton structure, fragmented page design, themes
+
