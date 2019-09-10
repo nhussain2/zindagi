@@ -10,7 +10,7 @@ not taken seriously. This app aims to link the user to helplines, websites, emer
 Some stats by [Dawn News](https://www.dawn.com/news/1448391)
 
 ### App Updates:
-Every week of the project, summary of updates/commits will be posted with screenshots for further detail.
+Every week (Monday) of the project, summary of updates/commits will be posted with screenshots for further detail.
 
 <details>
   <summary> Updates </summary>
