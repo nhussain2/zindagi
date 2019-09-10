@@ -36,14 +36,15 @@
             android:layout_marginBottom="8dp"
             android:text="@string/hometitle"
             android:textColor="#009688"
-            android:textSize="60sp"
+            android:textSize="50sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.108" />
+            app:layout_constraintVertical_bias="0.12" />
+
     </android.support.constraint.ConstraintLayout>
 
 </FrameLayout>

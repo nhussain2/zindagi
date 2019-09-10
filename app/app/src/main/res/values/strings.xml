@@ -12,5 +12,6 @@
 
     // app values
     <string name="hometitle">زندگی</string>
+    <string name="opengit"> اس منصوبے کو آن لائن دیکھیں </string>
 
 </resources>
