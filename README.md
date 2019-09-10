@@ -8,3 +8,11 @@ individuals in the Pakistani society that cannot express themselves and their fe
 not taken seriously. This app aims to link the user to helplines, websites, emergency contacts, information, advice pages etc. in order to minimize the possibilities of one being pushed to the point of death. 
 
 Some stats by [Dawn News](https://www.dawn.com/news/1448391)
+
+### App Updates:
+Every week of the project, summary of updates/commits will be posted with screenshots for further detail.
+
+<details>
+  <summary>  9/9/2019 </summary>
+  App skeleton structure created. Has fragmented pages for HOME, CONTACT, INFO, PERSONAL. Bottom navigation added.
+</details>
