@@ -1,4 +1,4 @@
-# zindagi زندگی
+# <img src="https://github.com/nhussain2/zindagi/blob/master/resources/pulse-line.png" height=20 width =20/>zindagi زندگی
 ### Suicide Prevention App for users in Pakistan
 
 >In Pakistan, suicide rates have increased, due to numerous factors- including style of living, societal pressure, illiteracy,
