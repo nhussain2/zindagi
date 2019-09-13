@@ -8,6 +8,7 @@ individuals in the Pakistani society that cannot express themselves and their fe
 not taken seriously. This app aims to link the user to helplines, websites, emergency contacts, information, advice pages etc. in order to minimize the possibilities of one being pushed to the point of death. 
 
 Some stats by [Dawn News](https://www.dawn.com/news/1448391)
+Check out the [Wiki](https://github.com/nhussain2/zindagi/wiki) for more info, context and translations
 
 ### App Updates:
 Every week (Monday) of the project, summary of updates/commits will be posted with screenshots for further detail.
