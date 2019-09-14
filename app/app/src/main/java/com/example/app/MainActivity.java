@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+        // Set Bottom Navigation View
         BottomNavigationView navigationView= findViewById(R.id.bta_nav);
 
         navigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
