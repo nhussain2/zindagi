@@ -34,6 +34,7 @@ public class HomeFragment extends Fragment {
         // Inflate the layout for this fragment
         View v = inflater.inflate(R.layout.fragment_home, container, false);
 
+        // Button to open Git Page for dev
         open_git = (Button)v.findViewById(R.id.opengitbtn);
         open_git.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -42,7 +43,7 @@ public class HomeFragment extends Fragment {
                 startActivity(opengitIntent);
             }
         });
-
+        // Text view with Listener to display quotes on click (Random)
         display_quote = (TextView)v.findViewById(R.id.quotestextview);
         display_quote.setOnClickListener(new View.OnClickListener() {
             @Override
