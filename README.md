@@ -26,3 +26,5 @@ Every week (Monday) of the project, summary of updates/commits will be posted wi
     
   </details>
 </details>
+
+<i>This app base is currently being designed for Nexus 6 ABD emulator (view restraints will be updated)</i>
