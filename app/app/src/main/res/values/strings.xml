@@ -18,6 +18,7 @@
         یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔
     </string>
 
+    <string name="clickforquote">Press me</string>
     // array for quotes section on home fragment
     <string-array name="home_quotes">
         <item>quote1</item>

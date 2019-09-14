@@ -97,7 +97,7 @@
             android:layout_marginBottom="8dp"
             android:background="@color/White"
             android:gravity="center|center_horizontal"
-            android:text="samplequote"
+            android:text="@string/clickforquote"
             android:textColor="@android:color/background_dark"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
