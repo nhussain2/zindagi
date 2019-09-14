@@ -17,4 +17,10 @@
         یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔
         یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔
     </string>
+
+    // array for quotes section on home fragment
+    <string-array name="home_quotes">
+        <item>quote1</item>
+        <item>quote2</item>
+    </string-array>
 </resources>
