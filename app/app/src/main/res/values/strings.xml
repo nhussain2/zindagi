@@ -22,5 +22,14 @@
     <string-array name="home_quotes">
         <item>quote1</item>
         <item>quote2</item>
+        <item>quote3</item>
+        <item>quote4</item>
+        <item>quote5</item>
+        <item>quote6</item>
+        <item>quote7</item>
+        <item>quote8</item>
+        <item>quote9</item>
+        <item>quote10</item>
+
     </string-array>
 </resources>

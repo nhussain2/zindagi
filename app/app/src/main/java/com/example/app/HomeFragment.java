@@ -9,6 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.TextView;
+
+import java.util.Random;
 
 
 /**
@@ -17,6 +20,7 @@ import android.widget.Button;
 public class HomeFragment extends Fragment {
 
     Button open_git;
+    TextView display_quote;
     public HomeFragment() {
         // Required empty public constructor
     }
@@ -36,6 +40,16 @@ public class HomeFragment extends Fragment {
             public void onClick(View view) {
                 Intent opengitIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/nhussain2/zindagi"));
                 startActivity(opengitIntent);
+            }
+        });
+
+        display_quote = (TextView)v.findViewById(R.id.quotestextview);
+        display_quote.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                String[] quotes= getResources().getStringArray(R.array.home_quotes);
+                Random random = new Random();
+                display_quote.setText(quotes[random.nextInt(quotes.length-1)]);
             }
         });
 
