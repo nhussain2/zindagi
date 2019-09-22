@@ -12,7 +12,7 @@ Some stats by [Dawn News](https://www.dawn.com/news/1448391)
 Check out the [Wiki](https://github.com/nhussain2/zindagi/wiki) for more info, context and translations
 
 ### App Updates:
-Every week (Monday) of the project, summary of updates/commits will be posted with screenshots for further detail.
+Summary of updates/commits will be posted with screenshots for further detail.
 
 <details>
   <summary> Updates </summary>
