@@ -50,7 +50,7 @@
         // Text View to show App Intro
 
         <TextView
-            android:id="@+id/appintro"
+            android:id="@+id/appintrourdu"
             android:layout_width="318dp"
             android:layout_height="146dp"
             android:layout_marginStart="8dp"
