@@ -13,9 +13,9 @@
     // app values
     <string name="hometitle">زندگی</string>
     <string name="opengit"> اس منصوبے کو آن لائن دیکھیں </string>
-    <string name="appintro">یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔
-        یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔
-        یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔یہ ایپ کا تعارف ہے۔
+    <string name="appintrourdu"> سلام، صارف! زندگی ایپ صرف آپ کے لیے تیار کی گئ ہے ۔
+        یہاں آپ اپنا ٹھکانا ڈھونڈیں، پیشہ ور مددگاروں سے رابطہ کریں،
+        اور اُس تبدیلی کا نام بنیں جو پاکستان میں زہنی صحت کی آگاہی پیدا کرے-
     </string>
     <string name="appintroeng">Salam, user! Zindagi is designed to be truly yours.
         Find your safe space online, connect with people who can help you and be
