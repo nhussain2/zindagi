@@ -7,8 +7,9 @@ Salam, user! Zindagi is designed to be truly yours. Find your safe space online,
 
 Roman Urdu:
 1) Salam sarif! Zindagi app sirf aap ke liye tayyar ki gaye hai. Yahan aap apna thikana dhoondein, unn logon se rabta karein jo aap ki madad kar sakein aur woh tabdeeli banein jo Pakistan mein zehni sehat ka daagh mita de. 
+^not using
 
-2) Salam moaziz sarif! Zindagi app sirf aap ke liye tayyar ki gaye hai. Yahan aap apna thikana dhoondein, paishawer madadgaron se rabta karein, aur uss tabdeeli ka naam banein jo Pakistan mein zehni sehat ki aagahi paida karey. 
+2) Salam sarif! Zindagi app sirf aap ke liye tayyar ki gaye hai. Yahan aap apna thikana dhoondein, paishawer madadgaron se rabta karein, aur uss tabdeeli ka naam banein jo Pakistan mein zehni sehat ki aagahi paida karey. 
 
 Urdu: 
 سلام، صارف! زندگی ایپ صرف آپ کے لیے تیار کی گئ ہے ۔ یہاں آپ اپنا ٹھکانا ڈھونڈیں، پیشہ ور مددگاروں سے رابطہ کریں، اور اُس تبدیلی کا نام بنیں جو پاکستان میں زہنی صحت کی آگاہی پیدا کرے-
