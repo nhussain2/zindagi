@@ -11,6 +11,9 @@ import android.view.ViewGroup;
 /**
  * A simple {@link Fragment} subclass.
  */
+
+// This fragment includes personal image gallery, song choices etc.
+
 public class PersonalFragment extends Fragment {
 
 
