@@ -10,7 +10,7 @@
     <string name="advice">معلومات</string>
     <string name="personal">ذاتی</string>
 
-    // app values
+
     <string name="hometitle">زندگی</string>
     <string name="opengit"> اس منصوبے کو آن لائن دیکھیں </string>
     <string name="appintrourdu"> سلام، صارف! زندگی ایپ صرف آپ کے لیے تیار کی گئ ہے ۔
@@ -25,7 +25,6 @@
     </string>
 
     <string name="clickforquote">Press me</string>
-    // array for quotes section on home fragment
     <string-array name="home_quotes">
         <item>quote1</item>
         <item>quote2</item>
