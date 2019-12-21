@@ -28,7 +28,7 @@
             android:id="@+id/raabtaInstructionView"
             android:layout_width="87dp"
             android:layout_height="28dp"
-            android:text="TextView"
+            android:text="@string/raabtainstruction"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

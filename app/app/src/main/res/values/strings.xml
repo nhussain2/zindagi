@@ -12,6 +12,9 @@
 
 
     <string name="hometitle">زندگی</string>
+
+    // Main page fragment values
+
     <string name="opengit"> اس منصوبے کو آن لائن دیکھیں </string>
     <string name="appintrourdu"> سلام، صارف! زندگی ایپ صرف آپ کے لیے تیار کی گئ ہے ۔
         یہاں آپ اپنا ٹھکانا ڈھونڈیں، پیشہ ور مددگاروں سے رابطہ کریں،
@@ -38,4 +41,7 @@
         <item>quote10</item>
 
     </string-array>
+
+    // Raabta Fragment
+    <string name="raabtainstruction">Add Raabta Instruction Here</string>
 </resources>
