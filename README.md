@@ -14,17 +14,5 @@ Check out the [Wiki](https://github.com/nhussain2/zindagi/wiki) for more info, c
 ### App Updates:
 Summary of updates/commits will be posted with screenshots for further detail.
 
-<details>
-  <summary> Updates </summary>
-  <details>
-    <summary><b> 9/9/2019 </b></summary>
-    Added bottom navigation, basic app skeleton structure, fragmented page design, themes <br>
-    <img src ="https://github.com/nhussain2/zindagi/blob/master/project%20ss/Screenshot_1568091358.png" width=200>
-    <img src ="https://github.com/nhussain2/zindagi/blob/master/project%20ss/Screenshot_1568091361.png" width=200>
-    <img src ="https://github.com/nhussain2/zindagi/blob/master/project%20ss/Screenshot_1568091363.png" width=200>
-    <img src ="https://github.com/nhussain2/zindagi/blob/master/project%20ss/Screenshot_1568091365.png" width=200>
-    
-  </details>
-</details>
 
 <i>This app base is currently being designed for Nexus 6 ABD emulator (view restraints will be updated)</i>
