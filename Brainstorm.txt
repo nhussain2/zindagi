@@ -13,7 +13,7 @@ Android Studio, Android SDK, Java, Github
 Add edits below:
 ------------
 INITIAL FORMAT:
-1. Home Page (allows navigation to specific pages on app)         
+1. Home Page (allows navigation to specific pages on app)- intro/quotations      
 2. Emergency call page: add close friends and family to contact, add emergency hotlines
 3. Info page for signs of suicidal tendencies, depression (Diagnose Yourself)
 4. Advice page (Tips to prevent/fight such thoughts)
